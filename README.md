@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on tuxgyver
 - 📫 How to reach me : Script python and termux project 
 - 😄 Pronouns: #Rayko_ , ArkoDev 
-- ⚡ Fun fact: I'm very smart 😅😂😉
+- ⚡ Fun fact: I'm very smart 😅😂😉 and I'm French 
 
 <!---
 Noewolf5449/Noewolf5449 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
